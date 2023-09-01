@@ -1,6 +1,6 @@
-# expensetracker
+# ExpenseTracker
 
-A new Flutter project.
+Basic expense tracker app that lets users keep track of their spending, helping them manage their personal budget
 
 ## Getting Started
 
