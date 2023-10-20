@@ -1,7 +1,7 @@
 # ExpenseTracker
 
 Basic expense tracker app that lets users keep track of their spending, helping them manage their personal budget
-by keeping track of expenses.
+by keeping track of expenses. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
